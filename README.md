@@ -1,5 +1,10 @@
 # AdventureWorks-sales-dashboard
-The Business Intelligence with Power BI End-to-End Solutions 4-hour training
+The Business Intelligence with Power BI End-to-End Solutions 4-hour training.
+
+## Dataset:
+You can refer to this [link](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx).
+
+# Dashboard Creation:
 
 <img src="Assets/Adventure Works saled dashboard.JPG" width=1000>
 
