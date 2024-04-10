@@ -14,4 +14,4 @@ You can refer to this [link](https://github.com/microsoft/powerbi-desktop-sample
 3. Data analysts have a vita role to any businesses, with their problem-solving skills and proficiency in generating data-driven insights. Their role empowers business with informed decision-making which is essential for sustainable growth and success.
 
 
-Special thanks to Sir Abs Avilla and DataSense Analytics Team for having this great opportunity to learn how to create a Sales Dashboard.
+Special thanks to Sir Abs Avilla and the DataSense Analytics Team for providing me with this excellent opportunity to learn how to create a Sales Dashboard by using Power BI Desktop.
