@@ -3,7 +3,7 @@ The Business Intelligence with Power BI End-to-End Solutions 4-hour training.
 
 ## Loading of Dataset:
 You can refer to this 
-The data set used in this project was taken from the following [link](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx). It is a csv file containing six tables. Each table was loaded into a Power Query.
+The data set used in this project was taken from the following [link](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx). It is a csv file containing seven tables. Each table was loaded into a Power Query.
 <img src="Assets/Schema.JPG" width=1000>
 
 
